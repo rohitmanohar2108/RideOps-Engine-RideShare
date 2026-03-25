@@ -1,4 +1,4 @@
-# RideOps Alert Management System
+# RideOps - Ride Share Management System 
 
 Full-stack web application for managing ride-sharing alerts in real time.
 
